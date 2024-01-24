@@ -22,7 +22,7 @@ const cards = [
 export default function ProfilePage() {
     return (
         <div className="cards">
-
+            <h2 id="portfolio" className="m-5 p-20">Welcome to my Portfolio</h2>
             {/* Here we use the map method to iterate through each user and return a new array of list items for each user */}
             {cards.map((cards) => (
                 <div className="card" style={{width: '18rem' }} key={cards.title}>
