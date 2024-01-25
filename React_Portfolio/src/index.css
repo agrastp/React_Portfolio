@@ -41,15 +41,19 @@ img{
 }
 
 #me{
-  margin-top: 250px;
+  margin-top: 130px;
+  margin-bottom: 200px;
 }
 
 p {
- color: rgb(67, 66, 66)
+ color: rgb(67, 66, 66);
 }
 
 /* Portfolio Page */
-
+#portfolio {
+  text-align: center;
+  color: rgb(67, 66, 66);
+}
 /* Footer */
 
 footer {

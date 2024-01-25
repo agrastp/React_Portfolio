@@ -7,7 +7,7 @@ function Footer() {
   return (
     <footer>
       <h2>Made by Pamela Agrast©</h2>
-      <p>
+      <div>
         <ul>
           <a href="https://github.com/agrastp">
             <li className="logo">
@@ -25,7 +25,7 @@ function Footer() {
             </li>
           </a>
         </ul>
-      </p>
+      </div>
     </footer>
   );
 }
