@@ -30,13 +30,13 @@ header {
   background-color: rgb(170, 180, 170);
 }
 
-.nav-link:hover{
-  color:rgba(232, 245, 248, 0.95);
+.nav-link {
+  color: rgb(67, 66, 66);
 }
 
 /* About Me Page */
 
-img{
+#pic{
   border-radius: 15%;
 }
 
@@ -59,6 +59,16 @@ p {
 #contact {
   color: rgb(67, 66, 66);
 }
+
+/* Resume Page */
+#resume {
+  color: rgb(67, 66, 66);
+}
+
+#download{
+  text-decoration: none;
+}
+
 /* Footer */
 
 footer {

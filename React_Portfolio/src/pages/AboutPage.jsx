@@ -13,7 +13,7 @@ export default function AboutPage() {
           </div>
           <div className="col-md-4 ml-auto d-flex justify-content-end">
             <div className="embed-responsive embed-responsive-1by1" id="me">
-              <img src="/images/Me.jpg" className="embed-responsive-item img-fluid m-20 p-20" alt="Responsive image" />
+              <img src="/images/Me.jpg" id="pic" className="embed-responsive-item img-fluid m-20 p-20" alt="Responsive image" />
             </div>
           </div>
         </div>

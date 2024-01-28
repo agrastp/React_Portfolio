@@ -42,7 +42,7 @@ const cards = [
     },
 ];
 
-export default function ProfilePage() {
+export default function PortfolioPage() {
     return (
       <div className="container">
         <h1 id="portfolio" className="m-5 p-20">Welcome to my Portfolio</h1>
